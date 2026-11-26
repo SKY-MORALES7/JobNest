@@ -1,0 +1,8 @@
+Django==6.0.3
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+gunicorn
+psycopg[binary]
+python-dotenv
+whitenoise
